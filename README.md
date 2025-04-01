@@ -43,7 +43,7 @@ GX BOOSTER is an **AI-driven** Magisk module designed to **maximize gaming perfo
 ---
 
 <p align="center">
-  <a href="https://t.me/IOSPEED"><img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&style=social"></a>
+  <a href="https://t.me/GXBOOST"><img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&style=social"></a>
   <a href="#"><img src="https://img.shields.io/badge/XDA-Thread-purple?logo=xdadevelopers&style=social"></a>
   <br/>
 <p align="center">
