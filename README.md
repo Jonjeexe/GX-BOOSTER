@@ -16,6 +16,11 @@ GX BOOSTER is an **AI-driven** Magisk module designed to **maximize gaming perfo
 ~ **RAM & Process Management** – Frees up memory by disabling background apps.  
 ~ **Battery Efficiency** – Ensures performance without excessive power drain.  
 
+## Download 
+`Spoiler alert - you have to complete task to get the link of file sry for this but its help me to earn some money thank for downloading.`
+[Download Module](https://Seturl.in/GXBOOSTER_v1-0-Initial-release)
+
+
 ## Installation  
 ### **1. Requirements**  
 - **Rooted Android device** with [Magisk](https://github.com/topjohnwu/Magisk) installed.  
