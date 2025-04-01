@@ -5,7 +5,7 @@
 
 ![GX BOOSTER](https://img.shields.io/badge/Magisk-Module-green?style=for-the-badge)  
 **Author:** Jonje exe  
-**Version:** 1.0  
+**Version:** 1.0-Initial-release
 **License:** MIT  
 
 GX BOOSTER is an **AI-driven** Magisk module designed to **maximize gaming performance** by tweaking system and kernel settings for smooth, lag-free gameplay in **PUBG, BGMI, Free Fire, and other high-FPS games**.  
@@ -17,13 +17,13 @@ GX BOOSTER is an **AI-driven** Magisk module designed to **maximize gaming perfo
 ✅ **RAM & Process Management** – Frees up memory by disabling background apps.  
 ✅ **Battery Efficiency** – Ensures performance without excessive power drain.  
 
-## 📜 Installation  
+## Installation  
 ### **1. Requirements**  
 - **Rooted Android device** with [Magisk](https://github.com/topjohnwu/Magisk) installed.  
 - Supports **Android 9+**.  
 
 ### **2. Install via Magisk Manager**  
-1. Download `GX_BOOSTER.zip`.  
+1. Download `GXBOOSTER-v1.0-Initial-release .zip`.  
 2. Open **Magisk Manager** → Go to **Modules**.  
 3. Tap **Install from Storage** and select the ZIP file.  
 4. Reboot your device.  
