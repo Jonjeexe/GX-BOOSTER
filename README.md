@@ -17,8 +17,8 @@ GX BOOSTER is an **AI-driven** Magisk module designed to **maximize gaming perfo
 ~ **Battery Efficiency** – Ensures performance without excessive power drain.  
 
 ## Download 
-`Spoiler alert - you have to complete task to get the link of file sry for this but its help me to earn some money thank for downloading.`
-[Download Module](https://Seturl.in/GXBOOSTER_v1-0-Initial-release)
+- Spoiler alert - you have to complete task to get the link of file sry for this but its help me to earn some money thank for downloading.
+- [Download Module](https://Seturl.in/GXBOOSTER_v1-0-Initial-release)
 
 
 ## Installation  
