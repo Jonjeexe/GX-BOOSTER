@@ -5,17 +5,16 @@
 
 ![GX BOOSTER](https://img.shields.io/badge/Magisk-Module-green?style=for-the-badge)  
 **Author:** Jonje exe  
-**Version:** 1.0-Initial-release
-**License:** MIT  
+**Version:** 1.0 Initial release 
 
 GX BOOSTER is an **AI-driven** Magisk module designed to **maximize gaming performance** by tweaking system and kernel settings for smooth, lag-free gameplay in **PUBG, BGMI, Free Fire, and other high-FPS games**.  
 
 ## 🔥 Features  
-✅ **AI-Based Performance Boosting** – Dynamic CPU/GPU scaling for real-time optimization.  
-✅ **Low Latency Mode** – Reduces ping and network lag for a faster response.  
-✅ **Game-Specific Tweaks** – Custom optimizations for BGMI, PUBG, Free Fire, etc.  
-✅ **RAM & Process Management** – Frees up memory by disabling background apps.  
-✅ **Battery Efficiency** – Ensures performance without excessive power drain.  
+~ **AI-Based Performance Boosting** – Dynamic CPU/GPU scaling for real-time optimization.  
+~ **Low Latency Mode** – Reduces ping and network lag for a faster response.  
+~ **Game-Specific Tweaks** – Custom optimizations for BGMI, PUBG, Free Fire, etc.  
+~ **RAM & Process Management** – Frees up memory by disabling background apps.  
+~ **Battery Efficiency** – Ensures performance without excessive power drain.  
 
 ## Installation  
 ### **1. Requirements**  
