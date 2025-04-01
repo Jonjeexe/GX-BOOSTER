@@ -1,7 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/2e814900-229c-4eca-83c5-a5951ff18666)
 
 
-# 🚀 GX BOOSTER - AI-Powered Magisk Module for Gaming Optimization  
+#### 🚀 GX BOOSTER - AI-Powered Magisk Module for Gaming Optimization  
 
 ![GX BOOSTER](https://img.shields.io/badge/Magisk-Module-green?style=for-the-badge)  
 **Author:** Jonje exe  
@@ -25,7 +25,7 @@ GX BOOSTER is an **AI-driven** Magisk module designed to **maximize gaming perfo
 ### **2. Install via Magisk Manager**  
 1. Download `GX_BOOSTER.zip`.  
 2. Open **Magisk Manager** → Go to **Modules**.  
-3. Tap **Install from Storage** and select the downloaded ZIP file.  
+3. Tap **Install from Storage** and select the ZIP file.  
 4. Reboot your device.  
 
 ## ⚙️ How It Works  
@@ -33,10 +33,3 @@ GX BOOSTER is an **AI-driven** Magisk module designed to **maximize gaming perfo
 - **Automatically disables** unnecessary background processes for **better FPS**.  
 - **Monitors system resources** and **dynamically adjusts performance settings**.  
 - **Restores default settings** when exiting the game.  
-
-## 🛠️ Commands  
-You can manually trigger optimizations via the terminal:  
-
-```sh
-su -c gxbooster --enable  # Enable GX BOOSTER manually  
-su -c gxbooster --disable # Restore default settings  
