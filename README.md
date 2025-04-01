@@ -31,4 +31,22 @@ GX BOOSTER is an **AI-driven** Magisk module designed to **maximize gaming perfo
 - Detects **game launch** and applies **real-time CPU/GPU optimization**.  
 - **Automatically disables** unnecessary background processes for **better FPS**.  
 - **Monitors system resources** and **dynamically adjusts performance settings**.  
-- **Restores default settings** when exiting the game.  
+- **Restores default settings** when exiting the game.
+
+## License
+
+> GX BOOSTER is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+
+<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg?style=flat&logo=creativecommons"/></a>
+
+
+---
+
+<p align="center">
+  <a href="https://t.me/IOSPEED"><img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&style=social"></a>
+  <a href="#"><img src="https://img.shields.io/badge/XDA-Thread-purple?logo=xdadevelopers&style=social"></a>
+  <br/>
+<p align="center">
+ GX BOOSTER © 2025-2026
+</p>
+
